@@ -6,3 +6,6 @@ This is my first project ever while learning web development.
 -Cat Gallery
 -Basic HTML structure 
 -Styled with simple CSS
+
+##live demo
+{check the website here}(https://irdxe.github.io/cat-photo-app/)
